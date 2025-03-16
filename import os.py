@@ -1,0 +1,4 @@
+import os
+
+os.environ['PDF_SERVICES_CLIENT_ID'] = '0b3e29112da9471492ff935042692136'
+os.environ['PDF_SERVICES_CLIENT_SECRET'] = 'p8e--CNbYOverNbn-NnJCLMOu0yADFh9izGE'
